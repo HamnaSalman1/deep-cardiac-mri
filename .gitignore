@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pth
+data/
+*.zip
+*.gz
+.env
