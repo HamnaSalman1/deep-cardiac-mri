@@ -1,0 +1,4 @@
+Model,Parameters_M,Inference_ms,Memory_MB,Mean_Dice
+UNet,7.7,15.81,137.31,0.828
+AttentionUNet,31.39,22.31,283.52,0.8296
+TransUNet,21.66,13.64,330.27,0.8439
